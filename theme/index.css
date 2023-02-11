@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.nav-item {
+  margin-right: 1rem;
+}
+
+.nav-item .nav-link {
+  color: #333;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.nav-item .nav-link:hover {
+  color: #007bff;
+}
+
+.card-body {
+  min-height: 7.5rem;
+}
+
+.full-height {
+  height: 100vh;
+}
+
